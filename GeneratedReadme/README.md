@@ -20,7 +20,7 @@ This is a readme generator made using node.js that creates readme for you such a
 Download the package and inquirer as node dependency from node package manager(npm)
 
 ## Usage
-Run 
+Run "node index.js" and answer questions to insert them
 
 ## Credits
 N/A
