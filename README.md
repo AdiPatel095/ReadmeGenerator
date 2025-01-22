@@ -4,7 +4,7 @@
 
 
 ## Description
-This is a readme generator made using node.js that creates readme for you such as this one
+This is a node application that creates readme documents for your github page such as this README
 
 ## Table of Contents (Optional)
 - [Installation](#installation)
@@ -17,10 +17,10 @@ This is a readme generator made using node.js that creates readme for you such a
 - [Tests](#tests)
 
 ## Installation
-Download the package and inquirer as node dependency from node package manager(npm)
+Download or clone the package from github and install inquirer dependency using Node Package Manager(npm)
 
 ## Usage
-Run "node index.js" and answer questions to insert them
+Run "node index.js" to start application and answer each question to fill in the readme as instructed
 
 ## Credits
 N/A
@@ -33,10 +33,10 @@ This application is covered under the [MIT](https://opensource.org/licenses/MIT)
 N/A
 
 ## Features
-It asks values for each fields that can be filled out as you can see I have done with my README.md
+Lists each question and user is presented with a prompt to answer with the value to fill that field on the README, Also adds proper license and badging
 
 ## How to Contribute
-Contact me via Email at adipatel095@gmail.com
+Contact me via E-mail at adipatel095@gmail.com
 
 ## Tests
-N/A
+<iframe src="https://drive.google.com/file/d/1S7HEXZLJfZTr4TFaKyKQ6mnvRRwAz4fW/preview" width="640" height="480"></iframe>
