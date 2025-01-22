@@ -4,7 +4,7 @@
 
 
 ## Description
-This is a readme for the node application that creates readme for you
+This is a readme generator made using node.js that creates readme for you such as this one
 
 ## Table of Contents (Optional)
 - [Installation](#installation)
@@ -17,10 +17,10 @@ This is a readme for the node application that creates readme for you
 - [Tests](#tests)
 
 ## Installation
-download the package and inquirer from node package manager(npm)
+Download the package and inquirer as node dependency from node package manager(npm)
 
 ## Usage
-run "node index.js" from the commandline inside the package level
+Run 
 
 ## Credits
 N/A
