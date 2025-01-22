@@ -39,4 +39,4 @@ Lists each question and user is presented with a prompt to answer with the value
 Contact me via E-mail at adipatel095@gmail.com
 
 ## Tests
-<iframe src="https://drive.google.com/file/d/1S7HEXZLJfZTr4TFaKyKQ6mnvRRwAz4fW/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1S7HEXZLJfZTr4TFaKyKQ6mnvRRwAz4fW/view
